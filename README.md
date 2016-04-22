@@ -1,4 +1,5 @@
-aqua_note
+#aqua_note
 =========
 
-A Symfony project created on April 19, 2016, 8:29 pm.
+aqua_note is a library of genus developed entirely with symfony 3.
+

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24bc472a-0ca4-4f13-ac96-91088ed52a22" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" />
-    </list>
+    <list default="true" id="24bc472a-0ca4-4f13-ac96-91088ed52a22" name="Default" comment="" />
     <ignored path="aqua_note.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -264,12 +262,12 @@
       <workItem from="1461182747488" duration="584000" />
       <workItem from="1461185205187" duration="3632000" />
       <workItem from="1461260141449" duration="141000" />
-      <workItem from="1461343816547" duration="64000" />
+      <workItem from="1461343816547" duration="155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6568000" />
+    <option name="totallyTimeSpent" value="6659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="735" extended-state="1" />
